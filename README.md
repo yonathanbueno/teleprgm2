@@ -243,7 +243,7 @@ Esta es la lista oficial de cumlaude. Por favor verifiquen los datos presentados
 
 <td>JESUS EDUARDO</td>
 
-<td>xyz</td>
+<td>4162401769</td>
 
 <td>je.perezgomez@yahoo.com</td>
 
