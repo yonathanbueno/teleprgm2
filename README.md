@@ -93,7 +93,7 @@ Esta es la lista oficial de cumlaude. Por favor verifiquen los datos presentados
 
 <tr>
 
-<th style="text-align: center;">CEDULA</th>
+<th style="text-align: center;">CÉDULA</th>
 
 <th style="text-align: center;">APELLIDOS</th>
 
