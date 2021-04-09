@@ -1,6 +1,5 @@
 Estimados Estudiantes, les escribe su Prof. Ing. Carlos F. Batalla. La próxima semana iniciaremos las actividades correspondientes a Programación 2.
-
-Lean detenidamente la información aquí suministrada.
+Por favor, lean detenidamente la información aquí suministrada.
 
 ## 1.- Contenidos y Ponderaciones 
 
