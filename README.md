@@ -24,7 +24,7 @@ Por favor, lean detenidamente la información aquí suministrada.
 
 ## 2.- Lenguaje de Programación y Entorno de Trabajo
 
-Aunque tendremos un examen al final de cada corte, un peso importante de su nota (20% de cada corte) se hará en la evaluación continua, que será en forma de asignaciones al final de cada clase. La interacción con su Profesor servirá para que Ud. demuestre las competencias adquiridas en cada tema. Para esto es importante que abra una cuenta en github o gitlab y plasme allí el trabajo por Ud. realizado. Esta metodología de trabajo le dará a Ud. una introducción a los conceptos y uso de una de las herramientas fundamentales para todo programador: [El control de Versiones.](https://es.wikipedia.org/wiki/Control_de_versiones)  
+Aunque tendremos un exámen al final de cada corte, un peso importante de su nota (20% de cada corte) se hará en la evaluación continua, que será en forma de asignaciones al final de cada clase. La interacción con su Profesor servirá para que Ud. demuestre las competencias adquiridas en cada tema. Para esto es importante que abra una cuenta en github o gitlab y plasme allí el trabajo por Ud. realizado. Esta metodología de trabajo le dará a Ud. una introducción a los conceptos y uso de una de las herramientas fundamentales para todo programador: [El control de Versiones.](https://es.wikipedia.org/wiki/Control_de_versiones)  
 Otra herramienta fundamental es el [IDE](https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado). Usaremos para este curso el lenguaje C# [7.3,8.0 y/o 9.0](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/configure-language-version)  y su framework .NET Core. C# es un lenguaje de propósito general, multiplataforma, multiparadigma, de tipado fuerte y orientado a objetos. Aunque su relevancia ha estado en el desarrollo de aplicaciones de Escritorio para Windows, Web en el backend (con el patron MVC) y juegos (con el framework [Unity](<https://es.wikipedia.org/wiki/Unity_(motor_de_videojuego)>)), la introducción de la estrategia .NET Core llevo a C# al mundo de los servidores Linux, [PowerBi](https://powerbi.microsoft.com/en-us/)  al desarrollo de soluciones de [Business Intelligence](https://es.wikipedia.org/wiki/Inteligencia_empresarial#:~:text=El%20t%C3%A9rmino%20inteligencia%20empresarial%20se,para%20respaldar%20las%20decisiones%20empresariales.) y [ml.net](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet) lo posiciono como lenguaje de inteligencia artificial y machine learning. Su vigencia se evidencia en el actual índice [Tiobe](https://www.tiobe.com/tiobe-index/) de lenguajes de programación.
 
 Puede usar como entorno de desarrollo:
@@ -60,11 +60,11 @@ Esta es la lista oficial de cumlaude. Por favor verifiquen los datos presentados
 
 | CÉDULA |      APELLIDOS       |         NOMBRES          |    TLF.     |            e-mail             |
 | :----: | :------------------: | :----------------------: | :---------: | :---------------------------: |
-|  xyz   |     ABREU PARRA      | ROSALINDA DE LOS ANGELES | 4125255106  | abreuparrarosalinda@gmail.com |
+|  xyz   |     ABREU PARRA      | ROSALINDA DE LOS ANGELES | 4120577552  | abreuparrarosalinda@gmail.com |
 |  xyz   |    BELLO GIMENEZ     |     DAVID ALEJANDRO      | 4145756777  |      logangx48@gmail.com      |
 |  xyz   |     BUENO BUENO      |      YONATHAN JOSE       | 4163519396  | yonathanbueno.2408@gmail.com  |
 |  xyz   |  CAMACHO BARTOLOMC   |     FAUSTO SALVADOR      | 4125081858  |   faustoaalvador@gmail.com    |
-|  xyz   |   CARBALLO SUAREZ    |       NERI MANUEL        | 4245454892  |    nericarballo@gmail.com     |
+|  xyz   |   CARBALLO SUAREZ    |       NERI MANUEL        | 4125572125  |    nericarballo@gmail.com     |
 |  xyz   |    CORREA CASTRO     |       JOSE MANUEL        | 2512521457  |  jcorreacastro99@hotmail.com  |
 |  xyz   |    ESCOBAR SUAREZ    |      MARIA GABRIELA      | 4245215165  |  mariagabrielaes29@gmail.com  |
 |  xyz   | GUEDEZDEOLIM DE OLIM |     ANDRES GUILLERMO     | 4148747594  |    andresggd2001@gmail.com    |
