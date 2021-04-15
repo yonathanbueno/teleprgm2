@@ -4,7 +4,7 @@
 ## ¿Qué aprenderemos en  esta clase?
 - Instalar .NET framework en distintas arquitecturas
 - Principios básicos del control de versiones.
-- Una rápida introducción a C# desde C++
+
 
 ---
 ### 1 Puesta a punto del entorno de trabajo
