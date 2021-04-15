@@ -74,7 +74,7 @@ Esta es la lista oficial de cumlaude. Por favor verifiquen los datos presentados
 |  xyz   |     RIVERO DURAN     |      KEYBERT MIGUEL      | 4149438849  |  keybertmriverod28@gmail.com  |
 |  xyz   |    SANCHEZ YEPEZ     |     NATACHA GERALDIN     | 4145593109  | natachasanchez0320@gmail.com  |
 |  xyz   |    SAYAGO GIMENEZ    |       JOELY ANDREA       | 4161555399  |     joelysayago@gmail.com     |
-|  xyz   |     SILVA GUERRA     |       PEDRO MIGUEL       | 2512331207  |      pmsg1603@gmail.com       |
+|  xyz   |     SILVA GUERRA     |       PEDRO MIGUEL       | 4140715567  |      pmsg1603@gmail.com       |
 |  xyz   |   TORRES RODRIGUEZ   |     MARIA ALEJANDRA      | 4245928109  |   marialeztorres@gmail.com    |
 
 ## 5.- Algunas consideraciones:
