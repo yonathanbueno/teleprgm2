@@ -46,11 +46,11 @@ Su Profesor usa Visual Studio Code Versión: 1.54.3 sobre un Linux openSUSE Leap
 ## 3.- Clases
 
 Tendremos una clase semanal de tres horas, en las que desarrollaremos los contenidos y consultas. Usaremos:
-| | |
-|- |- |
-| Clases | Google meets/ Grupo de WhatsApp [Repositorio Github de su Profesor.](https://github.com/carlosfranzbatalla/teleprgm2) |
-| Consultas | Grupo de WhatsApp/ Repositorio github de c/u de uds. |
-| Evaluaciones | Por definir |
+|              |                                                                                                                       |
+| ------------ | --------------------------------------------------------------------------------------------------------------------- |
+| Clases       | Google meets/ Grupo de WhatsApp [Repositorio Github de su Profesor.](https://github.com/carlosfranzbatalla/teleprgm2) |
+| Consultas    | Grupo de WhatsApp/ Repositorio github de c/u de uds.                                                                  |
+| Evaluaciones | Por definir                                                                                                           |
 
 Es imperativo que, acuerden un día y hora para las clases.
 
@@ -58,24 +58,36 @@ Es imperativo que, acuerden un día y hora para las clases.
 
 Esta es la lista oficial de cumlaude. Por favor verifiquen los datos presentados en esta tabla:
 
-| CÉDULA |      APELLIDOS       |         NOMBRES          |    TLF.     |            e-mail             |
-| :----: | :------------------: | :----------------------: | :---------: | :---------------------------: |
-|  xyz   |     ABREU PARRA      | ROSALINDA DE LOS ANGELES | 4120577552  | abreuparrarosalinda@gmail.com |
-|  xyz   |    BELLO GIMENEZ     |     DAVID ALEJANDRO      | 4145756777  |      logangx48@gmail.com      |
-|  xyz   |     BUENO BUENO      |      YONATHAN JOSE       | 4163519396  | yonathanbueno.2408@gmail.com  |
-|  xyz   |  CAMACHO BARTOLOMC   |     FAUSTO SALVADOR      | 4125081858  |   faustoaalvador@gmail.com    |
-|  xyz   |   CARBALLO SUAREZ    |       NERI MANUEL        | 4125572125  |    nericarballo@gmail.com     |
-|  xyz   |    CORREA CASTRO     |       JOSE MANUEL        | 2512521457  |  jcorreacastro99@hotmail.com  |
-|  xyz   |    ESCOBAR SUAREZ    |      MARIA GABRIELA      | 4245215165  |  mariagabrielaes29@gmail.com  |
-|  xyz   | GUEDEZDEOLIM DE OLIM |     ANDRES GUILLERMO     | 4148747594  |    andresggd2001@gmail.com    |
-|  xyz   |    LOPEZ GALLEGOS    |       MIGUEL ANGEL       | 4145652189  | gallegosmiguel2000@gmail.com  |
-|  xyz   |     PEREZ GOMEZ      |      JESUS EDUARDO       | 4162401769  |    je.perezgomez@yahoo.com    |
-|  xyz   |   PEREZ RODRIGUEZ    |       CARLOS JOSE        | 4160301647  |    crlsprzrdrgz@gmail.com     |
-|  xyz   |     RIVERO DURAN     |      KEYBERT MIGUEL      | 4149438849  |  keybertmriverod28@gmail.com  |
-|  xyz   |    SANCHEZ YEPEZ     |     NATACHA GERALDIN     | 4145593109  | natachasanchez0320@gmail.com  |
-|  xyz   |    SAYAGO GIMENEZ    |       JOELY ANDREA       | 4161555399  |     joelysayago@gmail.com     |
-|  xyz   |     SILVA GUERRA     |       PEDRO MIGUEL       | 4140715567  |      pmsg1603@gmail.com       |
-|  xyz   |   TORRES RODRIGUEZ   |     MARIA ALEJANDRA      | 4245928109  |   marialeztorres@gmail.com    |
+|       APELLIDO       	|          NOMBRE          	|    TLF.    	|              E-MAIL             	| CONTACTO VALIDADO 	|
+|:--------------------:	|:------------------------:	|:----------:	|:-------------------------------:	|:-----------------:	|
+| GUEDEZDEOLIM DE OLIM 	|     ANDRES GUILLERMO     	| 4245146963 	|     andresgedez85@gmail.com     	|         si        	|
+|    PEREZ RODRIGUEZ   	|        CARLOS JOSE       	| 4167506565 	|      crlsprzrdrgz@gmail.com     	|         si        	|
+|      PEREZ GOMEZ     	|       JESUS EDUARDO      	| 4162401769 	|     je.perezgomez@yahoo.com     	|         si        	|
+|    SAYAGO GIMENEZ    	|       JOELY ANDREA       	| 4161555399 	|      joelysayago@gmail.com      	|         si        	|
+|     RIVERO DURAN     	|      KEYBERT MIGUEL      	| 4125125617 	|   keybertmriverod28@gmail.com   	|         si        	|
+|   TORRES RODRIGUEZ   	|      MARIA ALEJANDRA     	| 4245928109 	|     marialeztorres@gmail.com    	|         si        	|
+|    ESCOBAR SUAREZ    	|      MARIA GABRIELA      	| 4245215165 	|   mariagabrielaes29@gmail.com   	|         si        	|
+|     SANCHEZ MOTTA    	|    MICHELLE ALEJANDRA    	| 4145656620 	| michelleasanchezmotta@gmail.com 	|         si        	|
+|    LOPEZ GALLEGOS    	|       MIGUEL ANGEL       	| 4145652189 	|   gallegosmiguel2000@gmail.com  	|         si        	|
+|     SANCHEZ YEPEZ    	|     NATACHA GERALDIN     	| 4145593109 	|   natachasanchez0320@gmail.com  	|         si        	|
+|    CARBALLO SUAREZ   	|        NERI MANUEL       	| 4125572125 	|      nericarballo@gmail.com     	|         si        	|
+|     SILVA GUERRA     	|       PEDRO MIGUEL       	| 4140715507 	|        pmsg1603@gmail.com       	|         si        	|
+|      ABREU PARRA     	| ROSALINDA DE LOS ANGELES 	| 4120577552 	|  abreuparrarosalinda@gmail.com  	|         si        	|
+|     BELLO GIMENEZ    	|      DAVID ALEJANDRO     	| 4145756777 	|       logangx48@gmail.com       	|         no        	|
+|      BUENO BUENO     	|       YONATHAN JOSE      	| 4163519396 	|   yonathanbueno.2408@gmail.com  	|         no        	|
+|   CAMACHO BARTOLOMC  	|      FAUSTO SALVADOR     	| 4125081858 	|     faustoaalvador@gmail.com    	|         no        	|
+|     CORREA CASTRO    	|        JOSE MANUEL       	| 2512521457 	|   jcorreacastro99@hotmail.com   	|         no        	|
+|     ACOSTA FALCON    	|        ARON EFRAIN       	|      ?     	|                ?                	|         no        	|
+|    BARBOZA DOUGLAS   	|     YAIRIELIS WILERMA    	|      ?     	|                ?                	|         no        	|
+|     OROPEZA LOPEZ    	|        JARED LUCIA       	|      ?     	|                ?                	|         no        	|
+|   PAGLIA RODRIGUEZ   	|       MAURIZIO JOSE      	|      ?     	|                ?                	|         no        	|
+|     PEREZ TORRES     	|      MARIO SANTIAGO      	|      ?     	|                ?                	|         no        	|
+|     RIVERO PEROZO    	|        EDWARD JOSE       	|      ?     	|                ?                	|         no        	|
+|      ROJAS PE√ĎA     	|      ANAUMI VICTORIA     	|      ?     	|                ?                	|         no        	|
+|     SANCHEZ RIVAS    	|       LUIS FERNANDO      	|      ?     	|                ?                	|         no        	|
+|   SEQUERA BASTIDAS   	|      CARLOS EDUARDO      	|      ?     	|                ?                	|         no        	|
+|   TORREALBA LOPEZ,   	|     DANIELA ANDREINA     	|      ?     	|                ?                	|         no        	|
+|   TORRES RODRIGUEZ   	|      MARIA ALEJANDRA     	|      ?     	|                ?                	|         no        	|
 
 ## 5.- Algunas consideraciones:
 
