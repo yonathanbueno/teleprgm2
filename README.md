@@ -87,7 +87,7 @@ Esta es la lista oficial de cumlaude. Por favor verifiquen los datos presentados
 |     SANCHEZ RIVAS    	|       LUIS FERNANDO      	|      ?     	|                ?                	|         no        	|
 |   SEQUERA BASTIDAS   	|      CARLOS EDUARDO      	|      ?     	|                ?                	|         no        	|
 |   TORREALBA LOPEZ,   	|     DANIELA ANDREINA     	|      ?     	|                ?                	|         no        	|
-|   TORRES RODRIGUEZ   	|      MARIA ALEJANDRA     	|      ?     	|                ?                	|         no        	|
+|   TORRES GUAIDO     	|     BERNARDO ANTONIO    	|      ?     	|                ?                	|         no        	|
 
 ## 5.- Algunas consideraciones:
 
